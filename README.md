@@ -1,1 +1,0 @@
-Bashrc config
